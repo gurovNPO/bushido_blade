@@ -5,7 +5,7 @@ require 'bushido_blade/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "bushido_blade"
-  spec.version       = BushidoBlase::VERSION
+  spec.version       = BushidoBlade::VERSION
   spec.authors       = ["Pavel Kuzmenko"]
   spec.email         = ["dreadmozart@gmail.com"]
   spec.summary       = %q{bushido skin}
