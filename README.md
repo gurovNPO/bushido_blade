@@ -2,8 +2,6 @@
 
 Flat skin for bushido.
 
-[![Gem Version]]() [![Code Climate]()]() []() [![creanetworx](http://creanetworx.com/)](http://creanetworx.com)
-
 
 ## Installation
 
